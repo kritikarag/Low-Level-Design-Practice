@@ -1,0 +1,4 @@
+enum PieceType{
+    X,
+    O
+};
